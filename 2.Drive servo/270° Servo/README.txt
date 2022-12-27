@@ -1,0 +1,1 @@
+The power supply voltage of 270° servo and servo is 6-7.4V, and power supply below this voltage will cause abnormal driving.
